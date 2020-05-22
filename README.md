@@ -35,3 +35,9 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
   
 In RNA genome, the Thymine nucleotide is replaced with what is known as Uracil represented as U.
 In short, **any genome sequence is basically a combination of all these [nucleotide](https://en.wikipedia.org/wiki/Nucleotide) in some order.**
+
+
+- Obevise question comes to our mind is that **"Can one find a cure for COVID-19 by studying the genomes?"**
+Not sure, as the molecular biology has not really been my field of study (never liked Biology tbh) but also because its a very vast subject where to confirm on a single hypothesis also takes months/years of evaluation and testing. 
+
+Having said that, the whole purpose of **this analysis is to help the ones who actually understand molecular biology get some data-driven insights** to be able to preapare **a RNA vaccine at the earliest**.
