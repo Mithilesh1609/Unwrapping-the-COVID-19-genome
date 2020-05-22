@@ -9,10 +9,10 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
   - Oligonucleotide composition
   - GC Content
 - Proteins & Amino Acids
-- Protein Strands by genome
-- Amino Acids Distribution
-- Finding the ORFs
-- Summary of Protein Sequences
+  - Protein Strands by genome 
+  - Amino Acids Distribution
+  - Finding the ORFs
+  - Summary of Protein Sequences
 - Sequence Alignment
 - Pairwise Sequence Alignment
 - Genome Sequence Similarity
