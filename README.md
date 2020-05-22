@@ -31,5 +31,6 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
   - **Thymine** represented as T,
   - **Guanine** represented as G and
   - **Cytosine** represented as C.
+  
 In RNA genome, the Thymine nucleotide is replaced with what is known as Uracil represented as U.
 In short, **any genome sequence is basically a combination of all these [nucleotide](https://en.wikipedia.org/wiki/Nucleotide) in some order.**
