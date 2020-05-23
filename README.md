@@ -3,6 +3,10 @@
 - Here we will try to answering some of the questions of **bio-informatics** in regards to the recent panademic outbreak of **Corona virus(COVID-19)**, from a **non-medical background person's perspective**. 
 Every analysis presented here is based on the stuff I learnt and understood (or felt that I actually understood) about **the genomes from the internet**.
 
+## How to run?
+- I have used kaggle kernal for running the code, you can use that or jupitar notebook or any editor like pycharm or atom or visual studio code.
+- for kaggle just create new notbook and copy the given .py file and add data there from links given in dataset.md file, then select GPU instaed of null in preference section for fast execuastion.
+
 ## Acknowledgement
 
 ## Work-Flow of the python code.
