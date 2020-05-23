@@ -29,8 +29,9 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
 ## Basic Context
 
 - First Question comes to our mind is **what is genome?**
-   ![](image/genome.png)
   - [Genomes](https://en.wikipedia.org/wiki/Genome) are considered to be **genetic material of any organism**. It consists of **[DNA](https://en.wikipedia.org/wiki/DNA)(or [RNA](https://en.wikipedia.org/wiki/RNA))** which in turn can be considered as the **blueprints of any organism's origin.**
+  
+ ![](image/genome.png)
 
 - How to **study Genomes?**
    
@@ -41,7 +42,7 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
     - **Guanine** represented as G and
     - **Cytosine** represented as C.
   
-In RNA genome, the Thymine nucleotide is replaced with what is known as Uracil represented as U.
+  - In RNA genome, the Thymine nucleotide is replaced with what is known as Uracil represented as U.
 In short, **any genome sequence is basically a combination of all these [nucleotide](https://en.wikipedia.org/wiki/Nucleotide) in some order.**
 
 ![](image/DNA.png)
