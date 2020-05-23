@@ -29,10 +29,11 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
 ## Basic Context
 
 - First Question comes to our mind is **what is genome?**
+   ![](image/genome.png)
   - [Genomes](https://en.wikipedia.org/wiki/Genome) are considered to be **genetic material of any organism**. It consists of **[DNA](https://en.wikipedia.org/wiki/DNA)(or [RNA](https://en.wikipedia.org/wiki/RNA))** which in turn can be considered as the **blueprints of any organism's origin.**
 
 - How to **study Genomes?**
-   ![](image/genome.png)
+   ![](image/DNA.png)
   - A genome consists of a **sequence of nucleotides** that together make up all the chromosomes of any organism. These nucleotides are the basic building blocks of DNA and RNA.
   - A DNA genome has 4 types of base nucleotides -
     - **Adenine** also represented as A,
