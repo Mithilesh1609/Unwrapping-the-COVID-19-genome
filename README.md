@@ -33,7 +33,7 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
   - [Genomes](https://en.wikipedia.org/wiki/Genome) are considered to be **genetic material of any organism**. It consists of **[DNA](https://en.wikipedia.org/wiki/DNA)(or [RNA](https://en.wikipedia.org/wiki/RNA))** which in turn can be considered as the **blueprints of any organism's origin.**
 
 - How to **study Genomes?**
-   ![](image/DNA.png)
+   
   - A genome consists of a **sequence of nucleotides** that together make up all the chromosomes of any organism. These nucleotides are the basic building blocks of DNA and RNA.
   - A DNA genome has 4 types of base nucleotides -
     - **Adenine** also represented as A,
@@ -44,9 +44,11 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
 In RNA genome, the Thymine nucleotide is replaced with what is known as Uracil represented as U.
 In short, **any genome sequence is basically a combination of all these [nucleotide](https://en.wikipedia.org/wiki/Nucleotide) in some order.**
 
+![](image/DNA.png)
 
 - Obevise question comes to our mind is that **"Can one find a cure for COVID-19 by studying the genomes?"**
 
   - Not sure, as the molecular biology has not really been my field of study (never liked Biology tbh) but also because its a very vast subject where to confirm on a single hypothesis also takes months/years of evaluation and testing. 
 
   - Having said that, the whole purpose of **this analysis is to help the ones who actually understand molecular biology get some data-driven insights** to be able to preapare **a RNA vaccine at the earliest**.
+  ![](image/predication_covid-19.png)
