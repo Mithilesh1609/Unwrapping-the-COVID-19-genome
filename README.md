@@ -30,6 +30,7 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
 
 - First Question comes to our mind is **what is genome?**
   - [Genomes](https://en.wikipedia.org/wiki/Genome) are considered to be **genetic material of any organism**. It consists of **[DNA](https://en.wikipedia.org/wiki/DNA)(or [RNA](https://en.wikipedia.org/wiki/RNA))** which in turn can be considered as the **blueprints of any organism's origin.**
+  - let's see how the genome look  like:
   
  ![](image/genome.png)
 
