@@ -8,6 +8,7 @@ Every analysis presented here is based on the stuff I learnt and understood (or 
 - for kaggle just create new notbook and copy the given .py file and add data there from links given in dataset.md file, then select GPU instaed of null in preference section for fast execuastion.
 
 ## Acknowledgement
+I am very thankful to Allen Institute For AI for providing this much great [dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).
 
 ## Work-Flow of the python code.
 - Basic Context
