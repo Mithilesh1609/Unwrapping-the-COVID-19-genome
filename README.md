@@ -4,8 +4,8 @@
 Every analysis presented here is based on the stuff I learnt and understood (or felt that I actually understood) about **the genomes from the internet**.
 
 ## How to run?
-- I have used kaggle kernal for running the code, you can use that or jupyter notebook or any editor like pycharm or atom or visual studio code.
-- For kaggle just create new notbook and copy the given .py file and add data there from links given in dataset.md file, then select GPU instaed of null in preference section for fast execuastion.
+- I have used **kaggle kernal** for running the code, you can use that or **jupyter notebook** or any editor like **pycharm or atom or visual studio code**.
+- For kaggle just create new notbook and copy the given **Unwrapping the COVID-19 genomes (1).ipynb** file and Add data there from links given in **dataset.md** file, then select **GPU** instaed of null in preference section for fast execuastion.
 
 ## Acknowledgement
 I am very thankful to Allen Institute For AI for providing this much great [dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).
